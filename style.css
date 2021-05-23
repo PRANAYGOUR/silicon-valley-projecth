@@ -1,20 +1,175 @@
-html, body {
-  margin: 0;
-  padding: 0;
+.body{
+    background-color: brown;
 }
-canvas {
-  display: block;
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    display: flex;
+    font-size: 50px;
+    margin-bottom: 3px;
+    justify-content: space-evenly;
+    border: 10px dotted red;
+    background-color: chartreuse;
+}
+
+.menu{
+    border: 10px dotted blue;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cyan;
+    justify-content: space-between;
+    display: flex;
+    font-size: 30px;
+    background-color:darksalmon;
+    
+}
+
+.grid {
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:cyan;
 }
 
 .item{
-  margin-left: 100px;
-
-}
-.menu{
-
-background-color:darkgoldenrod ;
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:cyan;
 }
 
-body{
-background-color: aqua;
+.health{
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:cyan;
 }
+  
+.care{
+border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:cyan;
+}
+    
+
+.careissues{
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:springgreen;
+}
+
+.healthcare{
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:springgreen;
+ }
+
+
+.dynamic{
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:springgreen;
+                    
+}
+
+.middle{
+    border: 10px dotted red;
+font-family: sans-serif;
+font-size: 30px;
+background-color:springgreen;
+ }
+
+ a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.grid:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.item:hover{
+    transform: scale(1.2);
+  }
+
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.health:hover{
+    transform: scale(1.2);
+  }
+
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.care:hover{
+    transform: scale(1.2);
+  }
+
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.careissues:hover{
+    transform: scale(1.2);
+  }
+
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.middle:hover{
+    transform: scale(1.2);
+  }
+   
+
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.healthcare:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+.dynamic:hover{
+    transform: scale(1.2);
+  }
+  
